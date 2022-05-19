@@ -4,11 +4,12 @@ Go Time 源码阅读
 
 Go Time 是 Golang 官方的 API 限流器，本仓库主要记录阅读该API限流器源码的的笔记，同时对相应的代码标上注释。
 
-## 可能对其他人有帮助的文档
+## 参考资料
 
 1. [Golang 标准库限流器 time/rate 使用介绍](https://www.cyhone.com/articles/usage-of-golang-rate/)
 2. [Golang 标准库限流器 time/rate 实现剖析 ](https://www.cyhone.com/articles/analisys-of-golang-rate/)
 3. [golang/time/rate官方仓库](https://github.com/golang/time)
+4. [API接口限流](https://blog.csdn.net/qq_39657769/article/details/121678257)
 
 ## 注意
 1. [注释版的仓库](rate/rate.go)已经删除与源码阅读不相关的文件
